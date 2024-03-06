@@ -31,13 +31,13 @@ The screenshot showcases the main interface of the Counter Project. Users can se
 <br />
 <br />
 
-🍄  Increase Button: The "Increment" button allows users to increase the counter value by one with each click.
+🍄  Increase Button: The "Increase" button allows users to increase the counter value by one with each click.
 
 <img width="1447" alt="Ekran Resmi 2024-03-06 17 16 50" src="https://github.com/tucecifci/Counter/assets/151346784/061793e0-5887-4adc-8166-a9eb24bacf50">
 <br />
 
 
-🍄 Decrease Button: The "Decrement" button enables users to decrease the counter value by one with each click. <br />
+🍄 Decrease Button: The "Decrease" button enables users to decrease the counter value by one with each click. <br />
 
 
 <img width="1452" alt="Ekran Resmi 2024-03-06 17 17 06" src="https://github.com/tucecifci/Counter/assets/151346784/13ae00a4-55b7-48e3-a9df-83b0049c093c">
