@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    border: none;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+body {
+    background: rgb(192, 238, 237);
+    background: linear-gradient(90deg, rgba(192, 238, 237, 1) 0%, rgba(226, 207, 219, 1) 49%, rgba(96, 38, 55, 1) 100%);
+    line-height: 1.5;
+    font-size: larger;
+}
+
+.container {
+    display: block;
+    justify-content: space-around;
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+h1 {
+    letter-spacing: 5px;
+    font-size: 50px;
+}
+
+#value {
+    font-size: 100px;
+}
+
+.button-container {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.button-container #btn-decrease {
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    border: 3px solid black;
+    border-radius: 10px;
+    padding: 5px;
+    font-weight: 600;
+    margin-right: 10px;
+
+}
+
+.button-container #btn-reset {
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    border: 3px solid black;
+    border-radius: 10px;
+    padding: 5px;
+    font-weight: 600;
+    margin-right: 10px;
+
+}
+
+.button-container #btn-increase {
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    border: 3px solid black;
+    border-radius: 10px;
+    padding: 5px;
+    font-weight: 600;
+    margin-right: 10px;
+}
+
+.decrease:hover {
+    background-color: black;
+    color: #efefef;
+}
+
+.reset:hover {
+    background-color: black;
+    color: #efefef;
+}
+
+.increase:hover {
+    background-color: black;
+    color: #efefef;
+}
